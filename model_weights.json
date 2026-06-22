@@ -1,0 +1,11 @@
+{
+    "intercept": -0.85,
+    "features": {
+        "tenure": -0.045,
+        "monthlyCharges": 0.018,
+        "totalCharges": -0.00015,
+        "contract_Month-to-month": 1.45,
+        "contract_One year": 0.05,
+        "contract_Two year": -1.25
+    }
+}
